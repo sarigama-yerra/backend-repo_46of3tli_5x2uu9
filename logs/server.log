@@ -1,15 +1,23 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [293] using StatReload
-INFO:     Started server process [295]
+INFO:     Started reloader process [341] using StatReload
+INFO:     Started server process [343]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:33048 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:33058 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33052 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33058 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33066 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51520 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51512 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51520 - "GET /api/surah HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51512 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38428 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:38436 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38452 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38480 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38436 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38462 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38452 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38464 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38512 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38480 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38516 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38496 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38436 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38452 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38512 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38452 - "GET /api/surah HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38512 - "GET /api/surah HTTP/1.1" 200 OK
